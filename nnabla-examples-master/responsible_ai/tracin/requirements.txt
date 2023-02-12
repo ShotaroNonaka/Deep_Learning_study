@@ -1,3 +1,0 @@
-tqdm
-seaborn
-opencv-python

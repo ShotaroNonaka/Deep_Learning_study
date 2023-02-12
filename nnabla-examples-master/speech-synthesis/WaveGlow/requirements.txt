@@ -1,3 +1,0 @@
-librosa
-numba==0.48.0
-nnabla>=1.12.0

@@ -1,3 +1,0 @@
-nnabla-ext-cuda101_nccl2_ubuntu16
-opencv-python
-dominate

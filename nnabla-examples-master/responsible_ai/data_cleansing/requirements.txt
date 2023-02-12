@@ -1,4 +1,0 @@
-imageio
-matplotlib
-pandas
-tqdm

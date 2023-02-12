@@ -1,5 +1,0 @@
-*.nnp
-*.h5
-src/lib/utils/voc_eval_lib/
-src/tools/kitti_eval/
-src/test/ref

@@ -1,3 +1,0 @@
-nnabla
-soundfile
-librosa

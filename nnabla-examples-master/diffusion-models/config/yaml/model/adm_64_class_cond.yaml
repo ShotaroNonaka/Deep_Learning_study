@@ -1,5 +1,0 @@
-defaults:
-  - adm_64
-  - _self_
-
-class_cond: True
