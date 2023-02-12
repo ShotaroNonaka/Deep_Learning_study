@@ -1,0 +1,7 @@
+Cython
+opencv_python
+matplotlib
+numpy
+tqdm
+Pillow
+easydict
