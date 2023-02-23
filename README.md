@@ -3,6 +3,7 @@
 ## 目標
 - 自分の研究をnnabla-rlでできるようにする
 - XAIを導入する
+  - tabularを扱えるlimeを勉強予定
 - 深層学習に詳しくなる
   - [pytorchチュートリアル](https://yutaroogawa.github.io/pytorch_tutorials_jp/)を勉強する
     - 2022/2/15 0章終わり
