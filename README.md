@@ -5,6 +5,7 @@
 - XAIを導入する
   - tabularを扱えるlimeを勉強予定
     - 2023/2/28 limeの勉強
+    - 2023/3/1  limeに関してまとめた
 - 深層学習に詳しくなる
   - [pytorchチュートリアル](https://yutaroogawa.github.io/pytorch_tutorials_jp/)を勉強する
     - 2023/2/15 0章終わり
